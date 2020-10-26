@@ -148,10 +148,12 @@ body {
 	max-height: 23.34vw;
 }
 .item__about__icon img {
-	max-width: 32.96vw;
+	width: 32.96vw;
+	height: 23.29vw;
 }
 .item__about img {
-	max-width: 14.96vw;
+	width: 14.96vw;
+	height: 8.28vw;
 }
 .item__about img:nth-child(2) {
 	margin: 1.87vw 0px 0px 0px;
@@ -184,8 +186,8 @@ body {
 	padding-right: 0;
 }
 .unit__about_3__column .item__about__icon img {
-	max-width: 15.54vw;
-	max-height: 18.86vw;
+	width: 15.54vw;
+	height: 18.86vw;
 }
 .item__about__name {
 	text-align: center;
@@ -273,8 +275,8 @@ body {
 	background-color: rgba(0, 0, 0, 0.1);
 }
 .item__blog__icon img {
-	max-width: 27.94vw;
-	max-height: 18.86vw;
+	width: 27.94vw;
+	height: 18.86vw;
 }
 /*END of PAGE*/
 .unit__end_1 {
